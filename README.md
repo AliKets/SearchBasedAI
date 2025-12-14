@@ -1,2 +1,2 @@
 # SearchBasedAI
-AI using recursive and decision-making algorithm
+AI using recursive and decision-making algorithm for a specific game
